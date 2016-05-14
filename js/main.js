@@ -49,18 +49,8 @@ $(document).ready(function(){
 
 
 
-
-
-
-
-
 	//parallax effect initialization
 	$('.hero').parallax("50%", 0.3);
-
-
-
-
-
 
 
 
@@ -138,10 +128,6 @@ $(document).ready(function(){
 
 
 
-
-
-
-
 	//Popup video
 	$('#play_video').click(function(e){
 		e.preventDefault();	
@@ -160,8 +146,5 @@ $(document).ready(function(){
 		});
 
 	});
-
-
-
 
 });
