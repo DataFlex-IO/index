@@ -1,0 +1,22 @@
+{
+  "name": "index",
+  "version": "1.0.0",
+  "description": "index of all repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DataFlex-IO/index.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DataFlex-IO/index/issues"
+  },
+  "homepage": "https://github.com/DataFlex-IO/index#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
